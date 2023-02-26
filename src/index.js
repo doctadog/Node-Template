@@ -1,5 +1,2 @@
-require('dotenv')
-
-async function cum () {
-  return cum
-}
+import dotenv from 'dotenv'
+dotenv.config()
